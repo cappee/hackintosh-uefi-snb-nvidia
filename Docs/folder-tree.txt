@@ -6,7 +6,6 @@
         ├── ACPI
         │   ├── SSDT-EC.aml
         │   ├── SSDT-GFX0.aml
-        │   ├── SSDT-IMEI.aml
         │   └── SSDT-PM.aml
         ├── Bootstap
         │   └── Bootstrap.efi
