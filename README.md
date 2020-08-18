@@ -19,7 +19,7 @@ Hackintosh based on UEFI system with Intel Sandy Bridge and a GeForce 210 graphi
   
 ## Files 
 This is all important files that I added to EFI.<br>
-You can view all folder tree by clicking [here](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/Docs/folder-tree.txt).
+You can view all folder tree by clicking [here](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/blob/master/Docs/folder-tree.txt).
   
 ###  Kexts
 - ATH9KFixup.kext (for WiFi)
