@@ -2,7 +2,7 @@
 Hackintosh based on UEFI system with Intel Sandy Bridge and a GeForce 210 graphic card. 
 **Max OS version: 10.13.6**
 
-![](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/blob/master/Images/About%20this%20Mac.png)
+![](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/blob/master/Images/AboutThisMac.png)
 (system screenshot, you can see other screenshot [here](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/tree/master/Images))
 
 ## Specifications
