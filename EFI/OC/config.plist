@@ -238,38 +238,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>BrcmNonPatchRAM2.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>BrcmPatchRAM2.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/BrcmPatchRAM2</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>NightShiftUnlocker.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -505,7 +473,7 @@
 				<key>DefaultBackgroundColor</key>
 				<data>AAAAAA==</data>
 				<key>UIScale</key>
-				<data>Ag==</data>
+				<data>AQ==</data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
