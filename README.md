@@ -27,9 +27,9 @@ You can view all folder tree by clicking [here](https://github.com/gabrielecappe
 ###  Kexts
 - ATH9KFixup.kext (for WiFi)
   - ATH9KInjector.kext installed in /L/E
-- IOBluetoothFamily.kext (for Bluetooth)
+- [IOBluetoothFamily.kext](https://github.com/gabrielecappellaro/hackintosh-uefi-snb-nvidia/blob/master/Docs/Bluetooth/README.md) (for Bluetooth)
   - Also AppleBluetoothMultitouch.kext, AppleMultitouchDriver.kext and IOBluetoothHID.kext ported from MacOS Yosemite
-  - Probably can I patch High Sierra IOBluetoothFamily.kext so can I remove other
+  - ~~Probably can I patch High Sierra IOBluetoothFamily.kext so can I remove other~~
 - Lilu.kext
 - NightShiftUnlocker.kext
   - Enable Night Shift in unsupported SMBIOS (like iMac12,2)
